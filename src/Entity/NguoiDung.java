@@ -11,7 +11,7 @@ package Entity;
 public class NguoiDung {
     public String tenDangNhap;
     public String matKhau;
-    public boolean vaiTro;
+    public boolean vaiTro523;
 
     public NguoiDung() {
     }
