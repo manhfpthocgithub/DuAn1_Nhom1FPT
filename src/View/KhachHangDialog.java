@@ -32,7 +32,7 @@ public class KhachHangDialog extends javax.swing.JDialog {
 
     KhachHangDAO daokh = new KhachHangDAO();
     KhachHang kh;
-    int row = 5;
+    int row = 7;
 
     public KhachHangDialog(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
